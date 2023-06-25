@@ -1,0 +1,13 @@
+Tool Search - User Guide
+
+1. Open an Image: Go to the File menu and select Open Image. Choose an image file (PNG, JPG, JPEG, or GIF) to load it into the program. The image will be displayed on the canvas.
+
+2. Add or Edit a Location: Click on the image to add or edit a location. A dialog box will appear asking for the part number. Enter the part number and click OK to save the location. The coordinates will be displayed in the console.
+
+3. Search for a Location: In the Edit menu, select Search Location. Enter a part number to search for its corresponding coordinates. If found, the location will be marked on the image. Otherwise, a message will indicate that no coordinates were found.
+
+4. Switch between Edit and Finish Modes: In the Edit menu, choose Edit Location to switch between Edit and Finish modes. In Edit mode, you can add or edit locations by clicking on the image. Finish mode disables location editing.
+
+5. Exit the Program: To exit the program, go to the File menu and select Exit. This will close the application.
+
+We hope this user guide helps you navigate and use the Tool Search program effectively.
