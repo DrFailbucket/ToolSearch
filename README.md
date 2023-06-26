@@ -1,7 +1,11 @@
 # Tool Search
-
 Tool Search is a graphical tool that allows users to mark and search for locations on images. It provides a simple interface to load images, mark coordinates on the images, and search for previously marked locations.
 
+-------
+### Please Note that this Program is 90% done with ChatGPT! I'm NOT a Programmer, thats just something i had in my Head and wanted to try out! Even the Readme is Generated with ChatGPT.   
+- I will try to Update this as often as Possible.
+- Everything that is Generated as Text for explaining Stuff in here, i will do Adjust it and remove any Error that ChatGPT may have made.
+-------
 ## Features
 
 - Load images: The tool allows you to load images from a specified folder. It automatically resizes the image to fit the application window.
